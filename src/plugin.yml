@@ -1,0 +1,6 @@
+name: PremiumGroupChanger
+main: me.kolorafa.premiumgroupchanger.premiumgroupPlugin
+version: 0.1
+description: Change user group on enter 
+author: kolorafa
+depend: [ Vault, PremiumProxy ]
